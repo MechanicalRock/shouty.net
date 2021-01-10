@@ -11,7 +11,7 @@ That is, if you're attending a BDD/SpecFlow course.
 
 ## You will need
 
-* Visual Studio
+* Visual Studio Code
 * Install SpecFlow integration ([VS2015](http://www.specflow.org/documentation/Visual-Studio-2015-Integration/) or [VS2013](http://www.specflow.org/documentation/Visual-Studio-2013-Integration/))
 
 ## Get the code

@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -13,8 +13,8 @@
 
     <!-- <PackageReference Include="Cucumber.Pro.SpecFlowPlugin" version="1.0.0-pre20180227a"  /> -->
     <PackageReference Include="Newtonsoft.Json" version="10.0.3" />
-    <PackageReference Include="SpecFlow" version="3.0.213" />
-    <PackageReference Include="SpecFlow.NUnit" version="3.0.213" />
+    <PackageReference Include="SpecFlow" version="3.5.14" />
+    <PackageReference Include="SpecFlow.NUnit" version="3.5.14" />
     <PackageReference Include="YamlDotNet" version="4.3.0" />
   </ItemGroup>
 
